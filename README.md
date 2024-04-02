@@ -19,6 +19,8 @@ Some initial limitations in this dataset include missing values, as only the Inv
 To filter my data to my stakeholder's specific requests, I've narrowed my data down to just airplane accidents with reciprocating engines that were not amateur built that occurred in the United States. Additionally, my stakeholder only trusts data that has the ten highest counts of data. I've narrowed down this as well. This data will help me determine the lowest risk Make for my stakeholder to purchase.
 ## Exploratory Data Analysis
 Determining the lowest risk make can be best determined by analyzing the average number of engines per make (typically a higher number of engines correlates to a lower risk), the average number of fatal injuries per make accident, the average number of serious injuries per make accident, the average number of minor injuries per make accident, and the average number of uninjured per make accident. The following visualizations depict the makes over top ten reported counts of data.
+![image](https://github.com/justinnllee/Aircraft_Safety_Analysis/assets/63434512/6c39d878-eb47-4c9a-afc9-309a8affeb30)
+
 
 Once selecting the lowest risk make, we determine if one or more engines are preferable for a lower risk.
 
