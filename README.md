@@ -25,6 +25,8 @@ Determining the lowest risk make can be best determined by analyzing the average
 Once selecting the lowest risk make, we determine if one or more engines are preferable for a lower risk.
 
 Next, keeping in mind number of engines for the lowest risk make, the lowest risk model is analyzed and selected.
+![image](https://github.com/justinnllee/Aircraft_Safety_Analysis/assets/63434512/94d97795-01d6-4b54-858c-45f4b88cc402)
+
 
 The following graphs are bar charts that also showcase the interquartile region of each value count.
 ## Conclusion
@@ -52,6 +54,6 @@ Further analysis could yield additional insights to further improve our selectio
 
 3) Working around the missing NaN values. By having a full dataset we could perform a stronger analysis, rather than relying on my intuition on how to account for NaN values in each column.
 ## Links
-[Click here to view Tableau visualization](https://public.tableau.com/views/Phase1FinalProject/Phase1Dashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+[Click here to view Tableau visualization]([https://public.tableau.com/views/Phase1FinalProject/Phase1Dashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Phase1FinalProjectEdit/Phase1Dashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link))
 
 [Click here to view presentation slides](https://docs.google.com/presentation/d/1TdO0IpjlnPGsd5YozP1ll-xYN5N3niOlkkZOwGwPuq4/edit?usp=sharing)
